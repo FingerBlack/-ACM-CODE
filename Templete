@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace  std;
+#define local;
+int main()
+{
+#ifdef local
+freopen("in","r",stdin);
+freopen("out","wt+",stdout);
+#endif
+	
+	return 0;
+}
