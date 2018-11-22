@@ -15,7 +15,7 @@ freopen("out","wt+",stdout);
 			x=(x+m)%i;
 			//cout<<x<<endl;
 		}
-		cout<<(x-k+m)%n<<endl;
+		cout<<(x-k+m+1)%n<<endl;
 	}
 	return 0;
 }
