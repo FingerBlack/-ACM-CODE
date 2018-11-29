@@ -9,6 +9,7 @@ int n;
 int sum[maxn];
 int g1[maxn][maxn];
 int g2[maxn][maxn];
+//
 int dealer(){
 	for(int i=0;i<n;i++){
 		dp[i][i]=sum[i]-sum[i-1];
