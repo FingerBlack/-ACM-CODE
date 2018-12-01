@@ -32,7 +32,6 @@ freopen("out","wt+",stdout);
 			if(num>8){
 				count++;
 			}
-			
 			if(c==nn[i].c){
 				nn[i].fre++;
 				flag=i;
