@@ -70,7 +70,6 @@ int main()
 freopen("in","r",stdin);
 freopen("out","wt+",stdout);
 #endif
-    
     while(cin>>n){
         //cout<<n<<endl;
         for(int i=0;i<n;i++){

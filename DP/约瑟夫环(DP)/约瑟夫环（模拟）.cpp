@@ -10,12 +10,13 @@ freopen("out","wt+",stdout);
 	int x=0;
 	int n,k,m;
 	while(cin>>n>>m>>k){
-		x=2;
+		x=0;
 		for(int i=2;i<=n;i++){
 			x=(x+m)%i;
+			//cout<<(x+k)%i<<endl;
 			//cout<<x<<endl;
 		}
-		cout<<(x-k+m+1)%n<<endl;
+		cout<<(x+k)%n<<endl;
 	}
 	return 0;
 }
