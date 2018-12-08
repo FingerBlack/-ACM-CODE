@@ -1,11 +1,12 @@
 #include<iostream>
+#include<string>
 using namespace  std;
-#define local;
+#define local
 int main()
 {
 #ifdef local
-freopen("in","r",stdin);
-freopen("out","wt+",stdout);
+freopen("/Users/chenjishuang/Documents/XCODE/ACM-CODE/RUN/in","r",stdin);
+freopen("/Users/chenjishuang/Documents/XCODE/ACM-CODE/RUN/out","wt+",stdout);
 #endif
 	
 	return 0;

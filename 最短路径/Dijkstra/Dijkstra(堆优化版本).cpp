@@ -65,8 +65,8 @@ int dijkstra(){
 int main()
 {
 #ifdef local
-freopen("in","r",stdin);
-freopen("out","wt+",stdout);
+freopen("/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/in","r",stdin);
+freopen("/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/out","wt+",stdout);
 #endif
 	while(cin>>n>>m){
 		int f,t,v;

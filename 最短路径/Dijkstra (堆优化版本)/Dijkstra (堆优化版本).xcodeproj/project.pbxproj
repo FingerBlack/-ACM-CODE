@@ -7,10 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6B83A59221B7C5AB003B5DEF /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6B83A59121B7C5AB003B5DEF /* main.cpp */; };
+		6B29827F21B7F72000F914BE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6B29827E21B7F72000F914BE /* main.cpp */; };
+		6BB1081621B7F5400043FA0B /* file.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6BB1081521B7F5400043FA0B /* file.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		6B29827A21B7F72000F914BE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		6B83A58C21B7C5AB003B5DEF /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -23,11 +33,23 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6B29827621B7F62300F914BE /* out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = out; path = DerivedData/out; sourceTree = "<group>"; };
+		6B29827721B7F67800F914BE /* 比赛 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "比赛"; path = "../../比赛"; sourceTree = "<group>"; };
+		6B29827C21B7F72000F914BE /* cpp-target */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "cpp-target"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B29827E21B7F72000F914BE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		6B29828321B7F82700F914BE /* out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = out; sourceTree = "<group>"; };
 		6B83A58E21B7C5AB003B5DEF /* Dijkstra (堆优化版本) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Dijkstra (堆优化版本)"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6B83A59121B7C5AB003B5DEF /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		6BB1081521B7F5400043FA0B /* file.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = file.cpp; path = DerivedData/file.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		6B29827921B7F72000F914BE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6B83A58B21B7C5AB003B5DEF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -38,10 +60,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6B29827D21B7F72000F914BE /* cpp-target */ = {
+			isa = PBXGroup;
+			children = (
+				6B29828321B7F82700F914BE /* out */,
+				6B29827E21B7F72000F914BE /* main.cpp */,
+			);
+			path = "cpp-target";
+			sourceTree = "<group>";
+		};
 		6B83A58521B7C5AB003B5DEF = {
 			isa = PBXGroup;
 			children = (
-				6B83A59021B7C5AB003B5DEF /* Dijkstra (堆优化版本) */,
+				6B29827721B7F67800F914BE /* 比赛 */,
+				6B29827621B7F62300F914BE /* out */,
+				6BB1081521B7F5400043FA0B /* file.cpp */,
+				6B29827D21B7F72000F914BE /* cpp-target */,
 				6B83A58F21B7C5AB003B5DEF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,21 +84,31 @@
 			isa = PBXGroup;
 			children = (
 				6B83A58E21B7C5AB003B5DEF /* Dijkstra (堆优化版本) */,
+				6B29827C21B7F72000F914BE /* cpp-target */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		6B83A59021B7C5AB003B5DEF /* Dijkstra (堆优化版本) */ = {
-			isa = PBXGroup;
-			children = (
-				6B83A59121B7C5AB003B5DEF /* main.cpp */,
-			);
-			path = "Dijkstra (堆优化版本)";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		6B29827B21B7F72000F914BE /* cpp-target */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6B29828021B7F72000F914BE /* Build configuration list for PBXNativeTarget "cpp-target" */;
+			buildPhases = (
+				6B29827821B7F72000F914BE /* Sources */,
+				6B29827921B7F72000F914BE /* Frameworks */,
+				6B29827A21B7F72000F914BE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "cpp-target";
+			productName = "cpp-target";
+			productReference = 6B29827C21B7F72000F914BE /* cpp-target */;
+			productType = "com.apple.product-type.tool";
+		};
 		6B83A58D21B7C5AB003B5DEF /* Dijkstra (堆优化版本) */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6B83A59521B7C5AB003B5DEF /* Build configuration list for PBXNativeTarget "Dijkstra (堆优化版本)" */;
@@ -91,6 +135,9 @@
 				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "陈纪双";
 				TargetAttributes = {
+					6B29827B21B7F72000F914BE = {
+						CreatedOnToolsVersion = 10.1;
+					};
 					6B83A58D21B7C5AB003B5DEF = {
 						CreatedOnToolsVersion = 10.1;
 					};
@@ -109,22 +156,47 @@
 			projectRoot = "";
 			targets = (
 				6B83A58D21B7C5AB003B5DEF /* Dijkstra (堆优化版本) */,
+				6B29827B21B7F72000F914BE /* cpp-target */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
+		6B29827821B7F72000F914BE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B29827F21B7F72000F914BE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6B83A58A21B7C5AB003B5DEF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6B83A59221B7C5AB003B5DEF /* main.cpp in Sources */,
+				6BB1081621B7F5400043FA0B /* file.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		6B29828121B7F72000F914BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		6B29828221B7F72000F914BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		6B83A59321B7C5AB003B5DEF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -255,6 +327,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		6B29828021B7F72000F914BE /* Build configuration list for PBXNativeTarget "cpp-target" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6B29828121B7F72000F914BE /* Debug */,
+				6B29828221B7F72000F914BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		6B83A58921B7C5AB003B5DEF /* Build configuration list for PBXProject "Dijkstra (堆优化版本)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

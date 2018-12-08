@@ -1,7 +1,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace  std;
-#define local;
+#define local
 const int maxn=1e5;
 const int inf=0x3f3f3f3f;
 int n,m;
@@ -46,8 +46,8 @@ int kruscal(){
 int main()
 {
 #ifdef local
-freopen("in","r",stdin);
-freopen("out","wt+",stdout);
+freopen("/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/in","r",stdin);
+freopen("/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/out","wt+",stdout);
 #endif
 	while(cin>>n>>m){
 		int f,t,val;

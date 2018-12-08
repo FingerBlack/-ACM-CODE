@@ -56,8 +56,8 @@ int kmp(string s1,string s2){
 int main()
 {
 #ifdef local
-freopen("in","r",stdin);
-freopen("out","wt+",stdout);
+freopen("/Users/chenjishuang/Documents/GitHub/-ACM-CODE/字符串/in","r",stdin);
+freopen("/Users/chenjishuang/Documents/GitHub/-ACM-CODE/字符串/out","wt+",stdout);
 #endif
 	string line1;
 	string line2;

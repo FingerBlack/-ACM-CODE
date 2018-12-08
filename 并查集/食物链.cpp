@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace  std;
-#define local;
+//#define local;
 const int maxn=1e5+6;
 int n,k,x,y,d;
 struct node{
