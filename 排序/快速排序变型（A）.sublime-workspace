@@ -87,34 +87,8 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "排序/快速排序变型（A）.cpp",
-			"settings":
-			{
-				"buffer_size": 2946,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "排序/in",
-			"settings":
-			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "排序/out",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
-	"build_system": "Packages/User/c.sublime-build",
+	"build_system": "",
 	"build_system_choices":
 	[
 		[
@@ -337,13 +311,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序"
-	],
 	"file_history":
 	[
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/快速排序变型（A）.cpp",
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/main.c",
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/BPlusTree.c",
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/b+树.cpp",
@@ -452,7 +423,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"count"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -470,101 +440,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "排序/快速排序变型（A）.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2946,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2248,
-								2248
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1670.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "排序/in",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 2,
-					"file": "排序/out",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -585,18 +462,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -619,7 +489,7 @@
 		"height": 108.0
 	},
 	"pinned_build_system": "",
-	"project": "ACM_.sublime-project",
+	"project": "快速排序变型（A）.sublime-project",
 	"replace":
 	{
 		"height": 44.0
