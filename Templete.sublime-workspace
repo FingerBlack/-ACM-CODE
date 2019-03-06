@@ -1,0 +1,597 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ma",
+				"MAX"
+			],
+			[
+				"DP",
+				"dp1max"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"for",
+				"forv\tVector For Loop"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"nex",
+				"Next"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"ed",
+				"Edge"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"b",
+				"push_back"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"t",
+				"tp\ttemplate <typename ${1:_InputIter}>"
+			],
+			[
+				"max",
+				"maxx"
+			],
+			[
+				"st",
+				"stdio.h\tstandard header (deprecated)"
+			],
+			[
+				"pr",
+				"printlcs"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"stri",
+				"string.h\tstandard header (deprecated)"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"cou",
+				"countt"
+			],
+			[
+				"di",
+				"distance"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"m",
+				"main\tmain()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 330.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"++",
+				"Set Syntax: C++"
+			],
+			[
+				"c",
+				"Changelog"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"c++",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"c+",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"s",
+				"Set Syntax: C++"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"x",
+				"Set Syntax: XML"
+			],
+			[
+				"late",
+				"LaTeXTools: Check system"
+			],
+			[
+				"jav",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"v",
+			"213",
+			"cin",
+			"1",
+			"qw",
+			"231",
+			"2",
+			"1",
+			"3",
+			"21",
+			"1",
+			"11",
+			"123",
+			"213",
+			"31",
+			"12",
+			"3",
+			"2",
+			"1",
+			"d",
+			"b",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/B. Tanya and Candies.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/D1. Coffee and Coursework (Easy version).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/C. Palindromic Matrix'.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/A. Water Buying.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1291：数字组合.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1275：【例9.19】乘积最大.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1276：【例9.20】编辑距离.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1298：计算字符串距离.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1302：股票买卖.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1301：大盗阿福.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1300：鸡蛋的硬度.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1274：【例9.18】合并石子.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1297：公共子序列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1279：【例9.23】橱窗布置(flower).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1280：【例9.24】滑雪.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1277：【例9.21】方格取数.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1278：【例9.22】复制书稿(book).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1271：【例9.15】潜水员.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1290：采药.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1293：买书.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1296：开餐馆.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1294：Charm Bracelet.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1292：宠物小精灵之收服.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1295：装箱问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1281：最长上升子序列",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1273：【例9.17】货币系统.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1272：【例9.16】分组背包.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1270：【例9.14】混合背包.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1268：【例9.12】完全背包问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1267：【例9.11】01背包问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1269：【例9.13】庆功会.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1289：拦截导弹.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1288：三角形最佳路径问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1284：摘花生.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1286：怪盗基德的滑翔翼.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1287：最低通行费.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1285：最大上升子序列和.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1263：【例9.7】友好城市.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1282：最大子矩阵.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1283：登山.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1281：最长上升子序列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1266：【例9.10】机器分配.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1265：【例9.9】最长公共子序列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1264：【例9.8】合唱队形.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1262：【例9.6】挖地雷.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1261：【例9.5】城市交通路网.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1260：【例9.4】拦截导弹(Noip1999).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1259：【例9.3】求最长不下降序列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1258：【例9.2】数字金字塔.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/快速排序变型（A）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/main.c",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/BPlusTree.c",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/b+树.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/H - Invitation Cards .cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/B - Pagodas.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/字符串/kmp.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/G - Children's Day.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/Templete",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/树状数组/uvalive-4329.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/A - Theme Section .cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/G - Children's Day ",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/单调队列优化dp（trunk robot）/单调队列优化dp（trunk robot）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n))/LIS (nlog(n)).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数论/gcd",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数论/质数",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印/LCS (最长公共子序列) 包括打印.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/约瑟夫环（模拟）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/字符串/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/字符串/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/kmp.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/最小生成树prim算法.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/最小生成树kruscal算法.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/Dijkstra(堆优化版本).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Floy算法/Floyd.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/最小生成树prim算法",
+		"/Users/chenjishuang/Library/Application Support/Sublime Text 3/Packages/User/java.sublime-build",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/哈夫曼树/huffman_tree",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/哈夫曼树/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数据结构/ research_count",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数据结构/research_transpose",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数据结构/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数据结构/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/Dijkstra(堆优化版本).ld_eVx7lS",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数据结构/research_transpose.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数据结构/research_move_to_front.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数据结构/ research_count.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/哈夫曼树/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/单调队列优化dp（trunk robot）/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/并查集/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/并查集/食物链.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/搜索/dfs（最简单版本）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/线段树/线段树模板（区间修改，单点修改，懒标记）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/哈夫曼树/huffman_tree.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/区间Dp (DP在博弈论当中的应用）/区间Dp (DP在博弈论当中的应用）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/5 7",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/## 计算机组成原理第六次作业.md",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/单调队列优化dp（trunk robot）/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/ Bellman-ford/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/哈夫曼树/out.txt",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/ceshi.java",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/区间Dp (DP在博弈论当中的应用）/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/区间Dp (DP在博弈论当中的应用）/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/约瑟夫环（模拟）",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/ Bellman-ford/Bellman-ford acm_code_01(求负权).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/二进制表示的集合dp(Crackdown)/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n))/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n))/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n))/LIS (nlog(n))",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/区间Dp (DP在博弈论当中的应用）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印/LCS (最长公共子序列) 包括打印",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环（模拟）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n)).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/二进制表示的集合dp(Crackdown).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/树形dp（Placing lamp）.cpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "Templete.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"DP/约瑟夫环(DP)/约瑟夫环（模拟）.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

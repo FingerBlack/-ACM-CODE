@@ -1,0 +1,1100 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"number"
+			],
+			[
+				"l",
+				"L"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"ma",
+				"math.h\tstandard header (deprecated)"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"stid",
+				"stdio.h\tstandard header (deprecated)"
+			],
+			[
+				"p",
+				"pos"
+			],
+			[
+				"sum",
+				"sumof"
+			],
+			[
+				"stdi",
+				"stdio.h\tstandard header (deprecated)"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"st",
+				"stack"
+			],
+			[
+				"strin",
+				"string.h\tstandard header (deprecated)"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"nex",
+				"Next"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"ed",
+				"Edge"
+			],
+			[
+				"u",
+				"u"
+			],
+			[
+				"b",
+				"push_back"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"t",
+				"tp\ttemplate <typename ${1:_InputIter}>"
+			],
+			[
+				"max",
+				"maxx"
+			],
+			[
+				"pr",
+				"printlcs"
+			],
+			[
+				"stri",
+				"string.h\tstandard header (deprecated)"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"cou",
+				"countt"
+			],
+			[
+				"di",
+				"distance"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"m",
+				"main\tmain()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1246：膨胀的木棍.cpp",
+			"settings":
+			{
+				"buffer_size": 916,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include<iostream>"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1247：河中跳房子.cpp",
+			"settings":
+			{
+				"buffer_size": 962,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1330：【例8.3】最少步数.cpp",
+			"settings":
+			{
+				"buffer_size": 1214,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1257：Knight Moves.cpp",
+			"settings":
+			{
+				"buffer_size": 1266,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1248：Dungeon Master.cpp",
+			"settings":
+			{
+				"buffer_size": 1622,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1254：走出迷宫.cpp",
+			"settings":
+			{
+				"buffer_size": 1377,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1255：迷宫问题.cpp",
+			"settings":
+			{
+				"buffer_size": 1619,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1252：走迷宫.cpp",
+			"settings":
+			{
+				"buffer_size": 1211,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1250：The Castle.cpp",
+			"settings":
+			{
+				"buffer_size": 1592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1253：抓住那头牛.cpp",
+			"settings":
+			{
+				"buffer_size": 1138,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/in",
+			"settings":
+			{
+				"buffer_size": 36,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/out",
+			"settings":
+			{
+				"buffer_size": 7,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 330.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"++",
+				"Set Syntax: C++"
+			],
+			[
+				"c",
+				"Changelog"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"c++",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"paka",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"c+",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"s",
+				"Set Syntax: C++"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"x",
+				"Set Syntax: XML"
+			],
+			[
+				"late",
+				"LaTeXTools: Check system"
+			],
+			[
+				"jav",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"v",
+			"213",
+			"cin",
+			"1",
+			"qw",
+			"231",
+			"2",
+			"1",
+			"3",
+			"21",
+			"1",
+			"11",
+			"123",
+			"213",
+			"31",
+			"12",
+			"3",
+			"2",
+			"1",
+			"d",
+			"b",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/kruscal",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/拓扑排序",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛"
+	],
+	"file_history":
+	[
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1251：仙岛求药.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1256：献给阿尔吉侬的花束.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1249：Lake Counting.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1250：The Castle.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1329：【例8.2】细胞.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/C. Meaningless Operations(2).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/A. Parity.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/B. Tape.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/C. Meaningless Operations.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/E. Magic Stones.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1243：月度开销.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1245：不重复地输出数.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1244：和为给定数.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/Templete",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1238：一元三次方程求解.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1242：网线主管.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1240：查找最接近的元素.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1239：统计数字.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1241：二分法求函数的零点.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1237：求排列的逆序数.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1236：区间合并 .cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1328：【例7.7】光荣的梦想.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1235：输出前k大的数.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1234：2011.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1233：接水问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1325：【例7.4】 循环比赛日程表.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1327：【例7.6】黑白棋子的移动.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1326：【例7.5】 取余运算（mod）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1229：电池的寿命.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1231：最小新整数.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1321：【例6.3】删数问题(Noip1994).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1232：Crossing River.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1230：寻找平面上的极大点.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1228：书架.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1229：电池的寿命.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/B. Lunar New Year and Food Ordering.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1320：【例6.2】均分纸牌(Noip2002).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1324：【例6.6】整数区间.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1224：最大子矩阵.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1227：Ride to Office.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/C. Lunar New Year and Number Division.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/D. Lunar New Year and a Wander.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/A. Lunar New Year and Cross Counting.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1225：金银岛.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1226：装箱问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1223：An Easy Problem.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1323：【例6.5】活动选择.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1322：【例6.4】拦截导弹问题(Noip1999).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1222：放苹果.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1319：【例6.1】排队接水.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/sg表.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1222：放苹果.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1221：分成互质组.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1217：棋盘问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1219：马走日.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1220：单词接龙.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1218：取石子游戏.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1212：LETTERS.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1213：八皇后问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1214：八皇后.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1216：红与黑.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1217：棋盘问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1215：迷宫.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1318：【例5.3】自然数的拆分.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1206：放苹果.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1208：2的幂次方表示.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1317：【例5.2】组合的输出.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1210：因子分解.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1211：判断元素是否存在.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1209：分数求和.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1204：爬楼梯.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1205：汉诺塔问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1203：扩号匹配问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1202：Pell数列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1201：菲波那契数列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1316：【例4.6】数的计数(Noip2001).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1199：全排列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1200：分解因数.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1200：分解因数",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1198：逆波兰表达式.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1315：【例4.5】集合的划分.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1207：求最大公约数问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1192：放苹果.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1191：流感传染.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1196：踩方格.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1197：山区建小学.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1195：判断整除.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1190：上台阶.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1193：吃糖果.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1194：移动路线.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1189：Pell数列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1313：【例3.5】位数问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1314：【例3.6】过河卒(Noip2002).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1188：菲波那契数列(2).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/1312昆虫繁殖（递归）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/求最大不重叠子序列之和.cpp",
+		"/Users/chenjishuang/Downloads/DrawGuess-master/src/DrawGuess/Client/ClientUI.java",
+		"/Users/chenjishuang/Downloads/ceshi.tex",
+		"/Users/chenjishuang/Downloads/latex-mimosis-master/bibliography-mimosis.tex",
+		"/Users/chenjishuang/Downloads/latex-mimosis-master/Thesis.tex",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/快速排序变型（A）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/main.c",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/BPlusTree.c",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/b+树.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/H - Invitation Cards .cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/B - Pagodas.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/字符串/kmp.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/G - Children's Day.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/树状数组/uvalive-4329.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/A - Theme Section .cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/比赛/G - Children's Day ",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/单调队列优化dp（trunk robot）/单调队列优化dp（trunk robot）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n))/LIS (nlog(n)).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数论/gcd",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/数论/质数",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印/LCS (最长公共子序列) 包括打印.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/约瑟夫环（模拟）.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/字符串/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/字符串/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/kmp.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/in"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1246：膨胀的木棍.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								916
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include<iostream>",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 65.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1247：河中跳房子.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								962
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1330：【例8.3】最少步数.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1257：Knight Moves.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								970,
+								970
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1248：Dungeon Master.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1622
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 852.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1254：走出迷宫.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1255：迷宫问题.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1619
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 837.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1252：走迷宫.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 176.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1250：The Castle.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1253：抓住那头牛.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 565.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/chenjishuang/Documents/GitHub/-ACM-CODE/out",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 206.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "寒假acm训练.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"DP/约瑟夫环(DP)/约瑟夫环（模拟）.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

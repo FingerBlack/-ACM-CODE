@@ -1,12 +1,20 @@
 #include<iostream>
 #include<string>
+#include<stdio.h>
+#include<algorithm>
+#include<vector>
+#include<string.h>
+#include<set>
+#include<math.h>
 using namespace  std;
 #define local
+const int N=10001;
+int f[N];
 int main()
 {
 #ifdef local
-freopen("/Users/chenjishuang/Documents/XCODE/ACM-CODE/ACM-CODE/in","r",stdin);
-freopen("/Users/chenjishuang/Documents/XCODE/ACM-CODE/ACM-CODE/out","wt+",stdout);
+freopen("/Users/chenjishuang/Documents/GitHub/-ACM-CODE/in","r",stdin);
+freopen("/Users/chenjishuang/Documents/GitHub/-ACM-CODE/out","wt+",stdout);
 #endif
 	
 	return 0;

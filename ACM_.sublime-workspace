@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"r",
+				"right1"
+			],
+			[
+				"le",
+				"left1"
+			],
+			[
+				"roo",
+				"root"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"lef",
+				"left2"
+			],
+			[
+				"RI",
+				"right2"
+			],
+			[
+				"l",
+				"left1"
+			],
+			[
+				"rig",
+				"right2"
+			],
+			[
+				"root",
+				"root-1"
+			],
+			[
+				"Ma",
+				"MAX"
+			],
+			[
+				"DP",
+				"dp1max"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"for",
+				"forv\tVector For Loop"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
 				"nex",
 				"Next"
 			],
@@ -88,28 +144,84 @@
 	"buffers":
 	[
 		{
-			"file": "排序/快速排序变型（A）.cpp",
+			"file": "1369：合并果子(fruit).cpp",
 			"settings":
 			{
-				"buffer_size": 2946,
+				"buffer_size": 749,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include<iostream>"
+			}
+		},
+		{
+			"file": "1370：最小函数值(minval).cpp",
+			"settings":
+			{
+				"buffer_size": 966,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "排序/in",
+			"file": "1371：看病.cpp",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 920,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "排序/out",
+			"file": "1372：小明的账单.cpp",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1198,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Templete",
+			"settings":
+			{
+				"buffer_size": 402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "A - Sqrt Bo.cpp",
+			"settings":
+			{
+				"buffer_size": 1287,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include<iostream>"
+			}
+		},
+		{
+			"file": "1373：鱼塘钓鱼(fishing）.cpp",
+			"settings":
+			{
+				"buffer_size": 1036,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include<iostream>"
+			}
+		},
+		{
+			"file": "in",
+			"settings":
+			{
+				"buffer_size": 142,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "out",
+			"settings":
+			{
+				"buffer_size": 42,
 				"line_ending": "Unix"
 			}
 		}
@@ -340,10 +452,82 @@
 	"expanded_folders":
 	[
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序"
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树"
 	],
 	"file_history":
 	[
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/ceshi.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1368：对称二叉树(tree_c).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1363：小球(drop).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1365：FBI树(fbi).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1366：二叉树输出(btout).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1367：查找二叉树(tree_a).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1364：二叉树遍历(flist).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1339：【例3-4】求后序遍历.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1340：【例3-5】扩展二叉树.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1337：【例3-2】单词查找树.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1338：【例3-3】医院设置.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1336：【例3-1】找树根和孩子.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/POJ1736 网络流飞行员配对方案问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1299：糖果.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1303：鸣人的影分身.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1304：数的划分.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1305：Maximum sum.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1306：最长公共子上升序列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/B. Tanya and Candies.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/D1. Coffee and Coursework (Easy version).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/C. Palindromic Matrix'.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/A. Water Buying.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1291：数字组合.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1275：【例9.19】乘积最大.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1276：【例9.20】编辑距离.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1298：计算字符串距离.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1302：股票买卖.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1301：大盗阿福.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1300：鸡蛋的硬度.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1274：【例9.18】合并石子.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1297：公共子序列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1279：【例9.23】橱窗布置(flower).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1280：【例9.24】滑雪.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1277：【例9.21】方格取数.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1278：【例9.22】复制书稿(book).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1271：【例9.15】潜水员.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1290：采药.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1293：买书.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1296：开餐馆.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1294：Charm Bracelet.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1292：宠物小精灵之收服.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1295：装箱问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1281：最长上升子序列",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1273：【例9.17】货币系统.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1272：【例9.16】分组背包.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1270：【例9.14】混合背包.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1268：【例9.12】完全背包问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1267：【例9.11】01背包问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1269：【例9.13】庆功会.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1289：拦截导弹.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1288：三角形最佳路径问题.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1284：摘花生.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1286：怪盗基德的滑翔翼.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1287：最低通行费.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1285：最大上升子序列和.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1263：【例9.7】友好城市.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1282：最大子矩阵.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1283：登山.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1281：最长上升子序列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1266：【例9.10】机器分配.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1265：【例9.9】最长公共子序列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1264：【例9.8】合唱队形.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1262：【例9.6】挖地雷.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1261：【例9.5】城市交通路网.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1260：【例9.4】拦截导弹(Noip1999).cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1259：【例9.3】求最长不下降序列.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/1258：【例9.2】数字金字塔.cpp",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/out",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/in",
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/排序/快速排序变型（A）.cpp",
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/main.c",
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/BPlusTree.c",
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/b+树/b+树.cpp",
@@ -399,42 +583,7 @@
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/5 7",
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/Dijkstra/## 计算机组成原理第六次作业.md",
 		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/单调队列优化dp（trunk robot）/out",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/ Bellman-ford/out",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/二叉树/哈夫曼树/out.txt",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/ceshi.java",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/区间Dp (DP在博弈论当中的应用）/in",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/区间Dp (DP在博弈论当中的应用）/out",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环(DP)/约瑟夫环（模拟）",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/ Bellman-ford/Bellman-ford acm_code_01(求负权).cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/二进制表示的集合dp(Crackdown)/in",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n))/in",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n))/out",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n))/LIS (nlog(n))",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印/out",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印.cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/区间Dp (DP在博弈论当中的应用）.cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印/LCS (最长公共子序列) 包括打印",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LCS (最长公共子序列) 包括打印/in",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/约瑟夫环（模拟）.cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/LIS (nlog(n)).cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/二进制表示的集合dp(Crackdown).cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/树形dp（Placing lamp）.cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/DP/单调队列优化dp（trunk robot）.cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/ Bellman-ford/in",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/ Bellman-ford/Bellman-ford 网上代码",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/ Bellman-ford/out",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/ Bellman-ford/out1",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/ Bellman-ford/Bellman-ford acm_code_01(求负权).cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/ Bellman-ford/Bellman-ford 网上代码.cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/测试/in",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/测试2/2",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/df/something.cpp",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/df/1",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/something",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最小生成树/something.cpp",
-		"/Users/chenjishuang/Library/Application Support/Sublime Text 3/Packages/User/c.sublime-build",
-		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/acm 模板专用/最小生成树/ceshi.cpp",
-		"/Users/chenjishuang/Documents/ceshi.tex"
+		"/Users/chenjishuang/Documents/GitHub/-ACM-CODE/最短路径/ Bellman-ford/out"
 	],
 	"find":
 	{
@@ -452,6 +601,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"];\n",
 			"count"
 		],
 		"highlight": true,
@@ -470,46 +620,16 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "排序/快速排序变型（A）.cpp",
+					"file": "1369：合并果子(fruit).cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2946,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2248,
-								2248
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1670.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "排序/in",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
+						"buffer_size": 749,
 						"regions":
 						{
 						},
@@ -517,7 +637,123 @@
 						[
 							[
 								0,
-								0
+								749
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include<iostream>",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 96.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "1370：最小函数值(minval).cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								966
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 411.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "1371：看病.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "1372：小明的账单.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 35.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Templete",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								402
 							]
 						],
 						"settings":
@@ -528,22 +764,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 2,
-					"file": "排序/out",
+					"buffer": 5,
+					"file": "A - Sqrt Bo.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1287,
 						"regions":
 						{
 						},
@@ -551,7 +781,71 @@
 						[
 							[
 								0,
-								0
+								1287
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include<iostream>",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 301.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "1373：鱼塘钓鱼(fishing）.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								817,
+								817
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include<iostream>",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 316.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
 							]
 						],
 						"settings":
@@ -563,6 +857,34 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "out",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -608,7 +930,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 207.0
+		"height": 215.0
 	},
 	"output.find_results":
 	{
@@ -656,7 +978,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
